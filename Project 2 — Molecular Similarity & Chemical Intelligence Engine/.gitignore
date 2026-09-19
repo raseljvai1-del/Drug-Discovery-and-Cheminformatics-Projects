@@ -1,0 +1,6 @@
+.data/
+data/
+.chembl_10k_descriptors.csv
+.chembl_10k.csv
+*.sdf
+.ipynb_checkpoints/
